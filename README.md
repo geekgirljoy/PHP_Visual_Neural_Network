@@ -1,5 +1,5 @@
 # PHP_Visual_Neural_Network
-A PHP Visua Neural Network Prototype/Proof of Concept
+A PHP Visual Neural Network Prototype/Proof of Concept
 
 I will be updating this repo as discuss it on my blog.
 

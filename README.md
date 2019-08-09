@@ -8,4 +8,5 @@ I will be updating this repo as discuss it on my blog.
 
 * [Building a Visual Bot](https://geekgirljoy.wordpress.com/2019/07/31/building-a-visual-bot/)
 
-* Automatically Generating Training Data for a Visual Neural Network - **Coming Soon**
+* [Generating Visual Training Data](https://geekgirljoy.wordpress.com/2019/08/08/generating-visual-training-data/)
+* Training - **Coming Soon!**

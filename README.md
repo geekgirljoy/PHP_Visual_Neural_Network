@@ -9,4 +9,7 @@ I will be updating this repo as discuss it on my blog.
 * [Building a Visual Bot](https://geekgirljoy.wordpress.com/2019/07/31/building-a-visual-bot/)
 
 * [Generating Visual Training Data](https://geekgirljoy.wordpress.com/2019/08/08/generating-visual-training-data/)
-* Training - **Coming Soon!**
+
+* [Training a Visual Bot](https://geekgirljoy.wordpress.com/2019/08/15/training-a-visual-bot/)
+
+* Testing - **Coming Soon!**

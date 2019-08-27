@@ -12,4 +12,4 @@ I will be updating this repo as discuss it on my blog.
 
 * [Training a Visual Bot](https://geekgirljoy.wordpress.com/2019/08/15/training-a-visual-bot/)
 
-* Using a Visual Bot - **Coming Soon!**
+* [Using a Visual Bot](https://geekgirljoy.wordpress.com/2019/08/21/using-a-visual-bot/)
